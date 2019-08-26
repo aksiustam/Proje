@@ -1,0 +1,27 @@
+table {
+	font-size: 14px;
+	width: 100%;
+	border-collapse: collapse;
+
+	table-layout:fixed;
+	
+
+}
+th, td {
+    padding: 3px;
+	padding-left: 5px;
+	word-wrap: break-word;
+	white-space: normal;
+
+ 	   
+}
+
+
+
+select.form-control{
+	height: 35px !important;
+	}
+.form-control{
+	height: 35px;
+	
+}
